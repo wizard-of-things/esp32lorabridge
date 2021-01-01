@@ -1,0 +1,12 @@
+{
+  "name": "EP32LoraBridge",
+  "description": "ESp32 Lora Bridge",
+  "version": "1.0",
+
+  "power": "USB",
+  "wireless":"lora",
+  "sensor": "lprf",
+  "mcu": "esp32",
+
+  "status": "ongoing"
+}
